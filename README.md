@@ -1,23 +1,8 @@
-<h1 align="center">Getting Started with Contribution Website</h1> 
-<br>
-
-<br>
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/for-you.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="css">
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" alt="js">
-  <img src="https://forthebadge.com/images/badges/open-source.svg" alt="os">
-  <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check">
-  <img src="" alt="">
-  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
-</div>
-
 ## Setup Steps
 
 - Go to directory
 ```
-$ cd HashHub
+$ cd resume-maker
 ```
 - Install Dependencies
 ```
@@ -49,15 +34,3 @@ Before making pull requests please look at our contributing guidelines. You can 
 The **code** is this repo is licensed under the MIT license. Feel free to use and share it as per the license.
 
 <br>
-
-# ✨ Contributors
-
-<a href="https://github.com/vedant-jain03/Resume-Maker/graphs/contributors" >
-  <img src="https://contrib.rocks/image?repo=vedant-jain03/Resume-Maker"/>
-</a>
-
-
-<div align="center">
- <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="love" />
- <img src="https://forthebadge.com/images/badges/thats-how-they-get-you.svg" alt="how">
-</div>
